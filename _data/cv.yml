@@ -34,44 +34,10 @@ cv:
           - Last 60 Credits CGPA 3.91.
           - "Thesis: ED-Net — a hybrid deep learning framework for polyp segmentation integrating EfficientNetB0 with Double U-Net, ASPP, and SE-block attention."
 
-    Experience:
-      - company: IEEE RUET Signal Processing Society (SPS) Student Branch Chapter
-        position: Chair
-        location: Rajshahi, Bangladesh
-        start_date: 2024
-        end_date: 2025
-        highlights:
-          - Led technical events, workshops, and research seminars for the student branch.
-
-      - company: Astronomy and Science Society of RUET (ASSR)
-        position: Vice President (Information)
-        location: Rajshahi, Bangladesh
-        start_date: 2024
-        end_date: 2025
-        highlights:
-          - Led the official website development using Next.js, Prisma, and MongoDB.
-
-      - company: 2025 IEEE International Conference on Power, Electrical, Electronics and Industrial Applications (PEEIACON)
-        position: Secretary, Website & CMT Management
-        location: RUET, Bangladesh
-        start_date: 2023
-        end_date: 2024
-
-      - company: IEEE RUET Student Branch
-        position: Webmaster
-        location: Rajshahi, Bangladesh
-        start_date: 2023
-        end_date: 2024
-
-    Awards:
-      - title: Technical Scholarship — University Grant Commission (UGC)
-        date: 2024
-        awarder: University Grant Commission, Bangladesh
-        summary: Awarded for three consecutive years (2022, 2023, 2024) to top-ranked students based on B.Sc. annual results.
-
-      - title: General Grade Scholarship — SSC and JSC Examinations
-        awarder: Government of Bangladesh
-        summary: Awarded to nationwide highest-ranked students in Grade 10 (SSC) and Grade 8 (JSC) examinations.
+    Interests:
+      - name: Research
+        icon: fa-solid fa-microscope
+        keywords: "Computer Vision, Multimodal Learning, Explainable AI, Large Language Models, Efficient Deep Learning"
 
     Publications:
       - title: "ED-Net: A Hybrid Deep Learning Framework for Precise Polyp Segmentation Integrating EfficientNetB0 with Double U-Net Architecture and Atrous Spatial Pyramid Pooling with Test-Time Augmentation"
@@ -153,14 +119,50 @@ cv:
         icon: fa-solid fa-flask
         keywords: "LaTeX, Git, GitHub, Kaggle, Google Colab, Jupyter, Mendeley"
 
+    Academic Leadership and Service:
+      - company: IEEE RUET Signal Processing Society (SPS) Student Branch Chapter
+        position: Chair
+        location: Rajshahi, Bangladesh
+        start_date: 2024
+        end_date: 2025
+        highlights:
+          - Led technical events, workshops, and research seminars for the student branch.
+
+      - company: Astronomy and Science Society of RUET (ASSR)
+        position: Vice President (Information)
+        location: Rajshahi, Bangladesh
+        start_date: 2024
+        end_date: 2025
+        highlights:
+          - Led the official website development using Next.js, Prisma, and MongoDB.
+
+      - company: 2025 IEEE International Conference on Power, Electrical, Electronics and Industrial Applications (PEEIACON)
+        position: Secretary, Website & CMT Management
+        location: RUET, Bangladesh
+        start_date: 2023
+        end_date: 2024
+
+      - company: IEEE RUET Student Branch
+        position: Webmaster
+        location: Rajshahi, Bangladesh
+        start_date: 2023
+        end_date: 2024
+
+    Awards:
+      - title: Technical Scholarship — University Grant Commission (UGC)
+        date: 2024
+        awarder: University Grant Commission, Bangladesh
+        summary: Awarded for three consecutive years (2022, 2023, 2024) to top-ranked students based on B.Sc. annual results.
+
+      - title: General Grade Scholarship — SSC and JSC Examinations
+        start_date: 2015
+        end_date: 2017
+        awarder: Government of Bangladesh
+        summary: Awarded to nationwide highest-ranked students in Grade 10 (SSC) and Grade 8 (JSC) examinations.
+
     Languages:
       - name: Bengali
         summary: "Native speaker"
 
       - name: English
-        summary: "Fluent — IELTS Overall 7.0 (Listening 7.5, Speaking 7.0, Reading 7.5, Writing 6.0)"
-
-    Interests:
-      - name: Research
-        icon: fa-solid fa-microscope
-        keywords: "Medical Image Segmentation, Multimodal Learning, Explainable AI, Large Language Models, Efficient Deep Learning"
+        summary: "Fluent — IELTS Score: Overall 7.0 (Listening 7.5, Speaking 7.0, Reading 7.5, Writing 6.0)"
