@@ -392,9 +392,9 @@ ninja.data = [{
           description: "Polyp segmentation using EfficientNetB0 and Double U-Net with ASPP and SE-block attention.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-phishing-detection-ensemble",
+          title: 'Phishing Detection Ensemble',
+          description: "XGBoost, LightGBM, and CatBoost ensemble with SHAP interpretability for phishing website detection.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
