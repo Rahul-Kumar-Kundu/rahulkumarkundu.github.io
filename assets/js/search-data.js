@@ -402,14 +402,14 @@ ninja.data = [{
           description: "Lightweight CNN with Grad-CAM explainability for tea plant disease detection.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-metaseg",
+          title: 'MetaSeg',
+          description: "Skin lesion segmentation with patient metadata fusion via FiLM modulation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-paeg-bangla-emotion-recognition",
+          title: 'PAEG — Bangla Emotion Recognition',
+          description: "Pragmatic-aware emotion grounding for low-resource Bangla NLP.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
