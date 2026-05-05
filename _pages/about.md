@@ -5,7 +5,7 @@ permalink: /
 subtitle: B.Sc. in ECE, <a href='https://www.ruet.ac.bd/' target='_blank'>RUET</a>, Bangladesh · PhD Applicant in Computer Science
 profile:
   align: right
-  image: Rahul ECE1910056.jpg
+  image: rahul_profile.jpg
   image_circular: false
   more_info: >
     <p>Rajshahi University of Engineering</p>
