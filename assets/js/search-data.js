@@ -412,14 +412,14 @@ ninja.data = [{
           description: "Pragmatic-aware emotion grounding for low-resource Bangla NLP.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-home-automation-system",
+          title: 'Home Automation System',
+          description: "IoT-based home automation using ESP32 with remote Wi-Fi control.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-ruet-assr-official-website",
+          title: 'RUET-ASSR Official Website',
+          description: "Official website for the Astronomy and Science Society of RUET built with Next.js, Prisma, and MongoDB.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
