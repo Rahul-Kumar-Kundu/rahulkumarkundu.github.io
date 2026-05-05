@@ -397,9 +397,9 @@ ninja.data = [{
           description: "XGBoost, LightGBM, and CatBoost ensemble with SHAP interpretability for phishing website detection.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-tea-leaf-disease-classification",
+          title: 'Tea Leaf Disease Classification',
+          description: "Lightweight CNN with Grad-CAM explainability for tea plant disease detection.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
