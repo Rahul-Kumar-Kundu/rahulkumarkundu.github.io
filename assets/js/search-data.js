@@ -422,9 +422,9 @@ ninja.data = [{
           description: "Official website for the Astronomy and Science Society of RUET built with Next.js, Prisma, and MongoDB.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-data-leakage-in-ml-pipelines",
+          title: 'Data Leakage in ML Pipelines',
+          description: "Systematic review of data leakage in machine learning pipelines with focus on medical tabular data.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
