@@ -407,24 +407,24 @@ ninja.data = [{
           description: "Skin lesion segmentation with patient metadata fusion via FiLM modulation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-paeg-bangla-emotion-recognition",
+          title: 'PAEG — Bangla Emotion Recognition',
+          description: "Pragmatic-aware emotion grounding for low-resource Bangla NLP.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-home-automation-system",
+          title: 'Home Automation System',
+          description: "IoT-based home automation using ESP32 with remote Wi-Fi control.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-ruet-assr-official-website",
+          title: 'RUET-ASSR Official Website',
+          description: "Official website for the Astronomy and Science Society of RUET built with Next.js, Prisma, and MongoDB.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-data-leakage-in-ml-pipelines",
+          title: 'Data Leakage in ML Pipelines',
+          description: "Systematic review of data leakage in machine learning pipelines with focus on medical tabular data.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
