@@ -1,10 +1,10 @@
 cv:
   name: Rahul Kumar Kundu
   label: Researcher & PhD Applicant
-  email: your@email.com # replace with your actual email
-  location: Rajshahi, Bangladesh
+  email: rahulkumarkundu.bd@gmail.com
+  location: Jashore, Khulna, Bangladesh
   image: ""
-  summary: B.Sc. graduate in Electrical and Computer Engineering from RUET, Bangladesh. Researcher in medical image segmentation, deep learning, NLP, and cybersecurity ML. Actively seeking funded PhD positions for Fall 2027.
+  summary: ECE graduate specializing in deep learning and machine learning for healthcare, cybersecurity, and NLP. Actively seeking funded PhD positions for Fall 2027 to develop interpretable, practically deployable AI systems.
 
   social_networks:
     - network: GitHub
@@ -13,10 +13,10 @@ cv:
       username: rahul-kumar-kunduu-52b31429a
 
   address:
-    street: Rajshahi University of Engineering and Technology
-    city: Rajshahi
-    region: Rajshahi Division
-    postalCode: 6204
+    street: 27/6 Dohakula, Bagherpara
+    city: Jashore
+    region: Khulna
+    postalCode: "7470"
     countryCode: BD
 
   sections:
@@ -26,104 +26,141 @@ cv:
         url: https://www.ruet.ac.bd/
         area: Electrical and Computer Engineering
         studyType: B.Sc.
-        start_date: 2019
-        end_date: 2024
+        start_date: 2020
+        end_date: 2025
         score: "3.79/4.00"
         highlights:
           - Ranked 7th out of 60 students in the department.
-          - "Thesis: ED-Net — a polyp segmentation model using encoder-decoder architecture with SE block attention."
+          - Last 60 Credits CGPA 3.91.
+          - "Thesis: ED-Net — a hybrid deep learning framework for polyp segmentation integrating EfficientNetB0 with Double U-Net, ASPP, and SE-block attention."
 
     Experience:
-      - company: IEEE RUET Signal Processing Society
+      - company: IEEE RUET Signal Processing Society (SPS) Student Branch Chapter
         position: Chair
         location: Rajshahi, Bangladesh
-        start_date: 2023
-        end_date: present
+        start_date: 2024
+        end_date: 2025
         highlights:
           - Led technical events, workshops, and research seminars for the student branch.
 
-      - company: Astronomy and Science Society of RUET
-        position: Vice President
+      - company: Astronomy and Science Society of RUET (ASSR)
+        position: Vice President (Information)
+        location: Rajshahi, Bangladesh
+        start_date: 2024
+        end_date: 2025
+        highlights:
+          - Led the official website development using Next.js, Prisma, and MongoDB.
+
+      - company: 2025 IEEE International Conference on Power, Electrical, Electronics and Industrial Applications (PEEIACON)
+        position: Secretary, Website & CMT Management
+        location: RUET, Bangladesh
+        start_date: 2023
+        end_date: 2024
+
+      - company: IEEE RUET Student Branch
+        position: Webmaster
         location: Rajshahi, Bangladesh
         start_date: 2023
-        end_date: present
-        highlights:
-          - Organized science outreach programs and astronomy observation events.
+        end_date: 2024
 
     Awards:
-      - title: Best Photography Award — IEEE PES Day 2024
+      - title: Technical Scholarship — University Grant Commission (UGC)
         date: 2024
-        awarder: IEEE RUET
-        summary: Awarded for outstanding photography at the IEEE PES Day 2024 event.
+        awarder: University Grant Commission, Bangladesh
+        summary: Awarded for three consecutive years (2022, 2023, 2024) to top-ranked students based on B.Sc. annual results.
+
+      - title: General Grade Scholarship — SSC and JSC Examinations
+        awarder: Government of Bangladesh
+        summary: Awarded to nationwide highest-ranked students in Grade 10 (SSC) and Grade 8 (JSC) examinations.
 
     Publications:
-      - title: "ED-Net: An Encoder-Decoder Network for Polyp Segmentation"
+      - title: "ED-Net: A Hybrid Deep Learning Framework for Precise Polyp Segmentation Integrating EfficientNetB0 with Double U-Net Architecture and Atrous Spatial Pyramid Pooling with Test-Time Augmentation"
         authors:
-          - Rahul Kumar Kundu
-        publisher: Biomedical Signal Processing and Control (Elsevier Q1) — Under Review
+          - R. K. Kundu
+          - H. B. Kibria
+          - M. F. Ahamed
+          - M. E. H. Chowdhury
+        publisher: "Biomedical Signal Processing and Control, Elsevier (Q1, IF: 4.9) — Under Review"
         releaseDate: 2025
-        summary: A polyp segmentation model with SE block attention achieving state-of-the-art Dice and IoU scores on benchmark datasets. Includes Grad-CAM explainability and ablation studies.
+        summary: Achieved 97.13% accuracy, 92.26% Dice, and 91.08% IoU on Kvasir-SEG with TTA, outperforming recent SOTA models including CSwinDoubleU-Net and SwinSAM.
 
-      - title: "Tea Leaf Disease Classification Using Deep Learning and Grad-CAM"
+      - title: "Beyond the Leaf: Intelligent Lightweight Disease Detection in Tea Plants with Spatial Convolutional Neural Networks and Explainable AI"
         authors:
-          - Rahul Kumar Kundu
-        publisher: IEEE STI 2025
+          - R. H. Prince
+          - M. O. F. Goni
+          - H. I. Peyal
+          - R. K. Kundu
+        publisher: "2025 IEEE 7th International Conference on Sustainable Technologies For Industry 5.0 (STI), IEEE Xplore"
         releaseDate: 2025
-        summary: Agricultural AI application using CNN-based classification with Grad-CAM visualization for tea leaf disease detection.
+        url: https://doi.org/10.1109/STI69347.2025.11367552
+        summary: Lightweight CNN-based tea leaf disease detection with Grad-CAM explainability. Published in IEEE Xplore.
 
-      - title: "Phishing Detection Using Ensemble Machine Learning"
+      - title: "Advancing Cybersecurity: A Study on Phishing Website Detection Using Machine Learning"
         authors:
-          - Rahul Kumar Kundu
-        publisher: Under Preparation
+          - O. Jyoti
+          - S. N. Sakib
+          - R. K. Kundu
+        publisher: "2025 8th International Conference on Computer and Information Technology (ICCIT), IEEE — Accepted"
         releaseDate: 2025
-        summary: XGBoost, LightGBM, and CatBoost ensemble achieving 93.71% accuracy and 99% phishing recall on benchmark datasets.
+        summary: Ensemble phishing detection system (XGBoost + LightGBM + CatBoost) with SHAP-based interpretability achieving 93.71% accuracy and 99% phishing recall.
 
     Projects:
-      - name: MetaSeg — Skin Lesion Segmentation with Metadata Fusion
-        summary: A skin lesion segmentation framework that integrates patient demographic metadata into the decoder via FiLM modulation. Targeting Computers in Biology and Medicine (Elsevier Q1).
+      - name: MetaSeg — Metadata-Integrated Skin Lesion Segmentation
+        summary: A deep learning segmentation framework integrating patient demographic metadata through FiLM modulation for improved skin lesion segmentation across diverse patient populations.
         highlights:
           - FiLM-based metadata fusion into decoder layers.
           - Collaboration with Qatar University.
+          - Targeting Computers in Biology and Medicine (Elsevier Q1).
         start_date: 2025
         end_date: present
 
-      - name: Bangla Emotion Recognition Dataset
-        summary: Three self-built datasets totaling approximately 26,000 samples covering translated, multilingual social media, and authentic Facebook comments. Research focuses on pragmatic feature loss in Bangla emotion translation.
+      - name: Pragmatic-Aware Emotion Grounding (PAEG) for Bangla
+        summary: Investigates pragmatic feature loss in machine-translated Bangla emotion datasets. Proposes a framework combining lexicon retrieval and culturally-grounded augmentation to improve LLM emotion recognition for low-resource Bangla.
         highlights:
+          - Three self-built datasets totaling approximately 26,000 samples.
           - Targeting Information Processing and Management (Elsevier Q1).
-          - Novel analysis of grammatical and pragmatic markers in Bangla text.
         start_date: 2024
         end_date: present
+
+      - name: RUET-ASSR Official Website
+        summary: Led a team to build the official website for the Astronomy and Science Society of RUET using Next.js, Prisma, and MongoDB.
+        start_date: 2023
+        end_date: 2024
 
     Skills:
       - name: Deep Learning & Computer Vision
         level: Advanced
         icon: fa-solid fa-brain
-        keywords: "PyTorch, TensorFlow, Medical Image Segmentation, Object Detection, Grad-CAM, Attention Mechanisms"
-
-      - name: Natural Language Processing
-        level: Intermediate
-        icon: fa-solid fa-language
-        keywords: "Transformers, Emotion Recognition, Bangla NLP, Dataset Construction"
+        keywords: "PyTorch, TensorFlow, Keras, Medical Image Segmentation, Attention Mechanisms, Grad-CAM, ASPP"
 
       - name: Machine Learning
         level: Advanced
         icon: fa-solid fa-chart-line
-        keywords: "XGBoost, LightGBM, CatBoost, Scikit-learn, Ensemble Methods"
+        keywords: "XGBoost, LightGBM, CatBoost, Scikit-learn, SHAP, Ensemble Methods"
+
+      - name: Natural Language Processing
+        level: Intermediate
+        icon: fa-solid fa-language
+        keywords: "Transformers, Emotion Recognition, Bangla NLP, Dataset Construction, LLMs"
 
       - name: Programming
         level: Advanced
         icon: fa-solid fa-code
-        keywords: "Python, MATLAB, LaTeX, Git"
+        keywords: "Python, MATLAB, C, C++, Java, HTML, CSS, JavaScript, PHP"
+
+      - name: Research Tools
+        level: Advanced
+        icon: fa-solid fa-flask
+        keywords: "LaTeX, Git, GitHub, Kaggle, Google Colab, Jupyter, Mendeley"
 
     Languages:
       - name: Bengali
         summary: "Native speaker"
 
       - name: English
-        summary: "Fluent (academic and professional)"
+        summary: "Fluent — IELTS Overall 7.0 (Listening 7.5, Speaking 7.0, Reading 7.5, Writing 6.0)"
 
     Interests:
       - name: Research
         icon: fa-solid fa-microscope
-        keywords: "Medical Image Segmentation, Multimodal Learning, Large Language Models, Efficient Deep Learning"
+        keywords: "Medical Image Segmentation, Multimodal Learning, Explainable AI, Large Language Models, Efficient Deep Learning"
