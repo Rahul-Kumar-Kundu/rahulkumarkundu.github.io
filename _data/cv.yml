@@ -1,189 +1,129 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Rahul Kumar Kundu
+  label: Researcher & PhD Applicant
+  email: your@email.com # replace with your actual email
+  location: Rajshahi, Bangladesh
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: B.Sc. graduate in Electrical and Computer Engineering from RUET, Bangladesh. Researcher in medical image segmentation, deep learning, NLP, and cybersecurity ML. Actively seeking funded PhD positions for Fall 2027.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: Rahul-Kumar-Kundu
     - network: LinkedIn
-      username: example
+      username: rahul-kumar-kunduu-52b31429a
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Rajshahi University of Engineering and Technology
+    city: Rajshahi
+    region: Rajshahi Division
+    postalCode: 6204
+    countryCode: BD
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Rajshahi University of Engineering and Technology (RUET)
+        location: Rajshahi, Bangladesh
+        url: https://www.ruet.ac.bd/
+        area: Electrical and Computer Engineering
+        studyType: B.Sc.
+        start_date: 2019
+        end_date: 2024
+        score: "3.79/4.00"
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+          - Ranked 7th out of 60 students in the department.
+          - "Thesis: ED-Net — a polyp segmentation model using encoder-decoder architecture with SE block attention."
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: IEEE RUET Signal Processing Society
+        position: Chair
+        location: Rajshahi, Bangladesh
+        start_date: 2023
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - Led technical events, workshops, and research seminars for the student branch.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Astronomy and Science Society of RUET
+        position: Vice President
+        location: Rajshahi, Bangladesh
+        start_date: 2023
+        end_date: present
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Organized science outreach programs and astronomy observation events.
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Best Photography Award — IEEE PES Day 2024
+        date: 2024
+        awarder: IEEE RUET
+        summary: Awarded for outstanding photography at the IEEE PES Day 2024 event.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "ED-Net: An Encoder-Decoder Network for Polyp Segmentation"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Rahul Kumar Kundu
+        publisher: Biomedical Signal Processing and Control (Elsevier Q1) — Under Review
+        releaseDate: 2025
+        summary: A polyp segmentation model with SE block attention achieving state-of-the-art Dice and IoU scores on benchmark datasets. Includes Grad-CAM explainability and ablation studies.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "Tea Leaf Disease Classification Using Deep Learning and Grad-CAM"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Rahul Kumar Kundu
+        publisher: IEEE STI 2025
+        releaseDate: 2025
+        summary: Agricultural AI application using CNN-based classification with Grad-CAM visualization for tea leaf disease detection.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Phishing Detection Using Ensemble Machine Learning"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Rahul Kumar Kundu
+        publisher: Under Preparation
+        releaseDate: 2025
+        summary: XGBoost, LightGBM, and CatBoost ensemble achieving 93.71% accuracy and 99% phishing recall on benchmark datasets.
+
+    Projects:
+      - name: MetaSeg — Skin Lesion Segmentation with Metadata Fusion
+        summary: A skin lesion segmentation framework that integrates patient demographic metadata into the decoder via FiLM modulation. Targeting Computers in Biology and Medicine (Elsevier Q1).
+        highlights:
+          - FiLM-based metadata fusion into decoder layers.
+          - Collaboration with Qatar University.
+        start_date: 2025
+        end_date: present
+
+      - name: Bangla Emotion Recognition Dataset
+        summary: Three self-built datasets totaling approximately 26,000 samples covering translated, multilingual social media, and authentic Facebook comments. Research focuses on pragmatic feature loss in Bangla emotion translation.
+        highlights:
+          - Targeting Information Processing and Management (Elsevier Q1).
+          - Novel analysis of grammatical and pragmatic markers in Bangla text.
+        start_date: 2024
+        end_date: present
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Deep Learning & Computer Vision
+        level: Advanced
+        icon: fa-solid fa-brain
+        keywords: "PyTorch, TensorFlow, Medical Image Segmentation, Object Detection, Grad-CAM, Attention Mechanisms"
+
+      - name: Natural Language Processing
+        level: Intermediate
+        icon: fa-solid fa-language
+        keywords: "Transformers, Emotion Recognition, Bangla NLP, Dataset Construction"
+
+      - name: Machine Learning
+        level: Advanced
+        icon: fa-solid fa-chart-line
+        keywords: "XGBoost, LightGBM, CatBoost, Scikit-learn, Ensemble Methods"
+
+      - name: Programming
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python, MATLAB, LaTeX, Git"
 
     Languages:
-      - name: German
+      - name: Bengali
         summary: "Native speaker"
 
       - name: English
-        summary: "Fluent"
+        summary: "Fluent (academic and professional)"
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Research
+        icon: fa-solid fa-microscope
+        keywords: "Medical Image Segmentation, Multimodal Learning, Large Language Models, Efficient Deep Learning"
