@@ -417,14 +417,14 @@ ninja.data = [{
           description: "IoT-based home automation using ESP32 with remote Wi-Fi control.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-ruet-assr-official-website",
-          title: 'RUET-ASSR Official Website',
-          description: "Official website for the Astronomy and Science Society of RUET built with Next.js, Prisma, and MongoDB.",
+            },},{id: "projects-project-7",
+          title: 'project 7',
+          description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-data-leakage-in-ml-pipelines",
-          title: 'Data Leakage in ML Pipelines',
-          description: "Systematic review of data leakage in machine learning pipelines with focus on medical tabular data.",
+            },},{id: "projects-project-8",
+          title: 'project 8',
+          description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
