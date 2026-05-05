@@ -417,21 +417,16 @@ ninja.data = [{
           description: "IoT-based home automation using ESP32 with remote Wi-Fi control.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-ruet-assr-official-website",
+          title: 'RUET-ASSR Official Website',
+          description: "Official website for the Astronomy and Science Society of RUET built with Next.js, Prisma, and MongoDB.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-data-leakage-in-ml-pipelines",
+          title: 'Data Leakage in ML Pipelines',
+          description: "Systematic review of data leakage in machine learning pipelines with focus on medical tabular data.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
