@@ -38,6 +38,6 @@ My research focuses on developing reliable, interpretable, and deployable machin
 
 <br>
 <br>
-<strong>I am actively seeking funded PhD positions for Fall 2027 in medical image analysis, multimodal learning, trustworthy AI, and NLP. Feel free to reach out via email for research collaborations or PhD inquiries.</strong>
+<strong>I am actively seeking funded PhD positions for Fall 2027 in medical image analysis, multimodal learning, trustworthy AI, and NLP. Feel free to reach out. </strong>
 
 </div>
