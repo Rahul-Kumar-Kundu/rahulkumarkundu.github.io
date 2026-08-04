@@ -33,8 +33,10 @@ latest_posts:
 
 I am <strong>Rahul Kumar Kundu</strong>, a researcher in machine learning and trustworthy artificial intelligence. I completed my B.Sc. in Electrical and Computer Engineering at <strong>Rajshahi University of Engineering and Technology (RUET)</strong>, Bangladesh, graduating with a CGPA of 3.79/4.00 and ranking 7th among 60 students. I am currently working as a <strong>Research Assistant</strong> under <a href="https://scholar.google.com/citations?user=VC8FmyEAAAAJ&hl=en" target="_blank">Dr. Amith Khandakar</a> at <strong>Qatar University</strong> (remote).
 <br>
+<br>
 My research focuses on developing reliable, interpretable, and deployable machine learning systems for healthcare and intelligent sensing. I am particularly interested in <strong>medical image analysis</strong>, <strong>multimodal learning</strong>, <strong>explainable AI</strong>, <strong>trustworthy AI</strong>, and <strong>machine learning for cybersecurity</strong>.
 
+<br>
 <br>
 <strong>I am actively seeking funded PhD positions for Fall 2027 in medical image analysis, multimodal learning, trustworthy AI, and NLP. Feel free to reach out via email for research collaborations or PhD inquiries.</strong>
 
