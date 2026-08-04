@@ -383,15 +383,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-started-as-a-research-assistant-at-qatar-university-under-dr-amith-khandakar-conducting-research-in-machine-learning-deep-learning-and-multimodal-learning-with-contributions-to-model-development-statistical-evaluation-reproducible-experimentation-and-manuscript-preparation",
+          section: "News",},{id: "news-ed-net-published-in-biomedical-signal-processing-and-control",
+          title: 'ED-Net Published in Biomedical Signal Processing and Control',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/ednet/";
+            },},{id: "news-started-as-a-research-assistant-at-qatar-university-under-dr-amith-khandakar-conducting-research-in-machine-learning-deep-learning-and-multimodal-learning-with-contributions-to-model-development-statistical-evaluation-reproducible-experimentation-and-manuscript-preparation",
           title: 'Started as a Research Assistant at Qatar University under Dr. Amith Khandakar, conducting...',
           description: "",
           section: "News",},{id: "projects-paeg-bangla-emotion-recognition",
