@@ -394,12 +394,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-home-automation-system",
-          title: 'Home Automation System',
-          description: "IoT-based home automation using ESP32 with remote Wi-Fi control, developed during ECE-3212 at RUET.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-paeg-bangla-emotion-recognition",
+          section: "News",},{id: "projects-paeg-bangla-emotion-recognition",
           title: 'PAEG — Bangla Emotion Recognition',
           description: "Pragmatic-aware emotion grounding for low-resource Bangla NLP — framework design in progress.",
           section: "Projects",handler: () => {
@@ -414,6 +409,11 @@ ninja.data = [{
           description: "Official website for the Astronomy and Science Society of RUET built with Next.js, Prisma, and MongoDB.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/assr_website/";
+            },},{id: "projects-home-automation-system",
+          title: 'Home Automation System',
+          description: "IoT-based home automation using ESP32 with remote Wi-Fi control, developed during ECE-3212 at RUET.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/home_automation/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
