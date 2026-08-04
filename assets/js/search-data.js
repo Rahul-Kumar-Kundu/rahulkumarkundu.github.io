@@ -394,17 +394,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-phishing-detection-ensemble",
-          title: 'Phishing Detection Ensemble',
-          description: "XGBoost, LightGBM, and CatBoost ensemble with SHAP interpretability for phishing website detection.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-tea-leaf-disease-classification",
-          title: 'Tea Leaf Disease Classification',
-          description: "Lightweight CNN with Grad-CAM explainability for tea plant disease detection.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-metaseg",
+          section: "News",},{id: "projects-metaseg",
           title: 'MetaSeg',
           description: "Skin lesion segmentation with patient metadata fusion via FiLM modulation.",
           section: "Projects",handler: () => {
