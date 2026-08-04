@@ -40,4 +40,7 @@ Beyond research, I serve as <strong>Chair of the IEEE RUET Signal Processing Soc
 
 <strong>I am actively seeking funded PhD positions for Fall 2027 in medical image analysis, multimodal learning, trustworthy AI, and NLP. Feel free to reach out.</strong>
 
+<br>
+<br>
+
 </div>
