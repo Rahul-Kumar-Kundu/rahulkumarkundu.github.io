@@ -394,12 +394,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-ed-net",
-          title: 'ED-Net',
-          description: "Polyp segmentation using EfficientNetB0 and Double U-Net with ASPP and SE-block attention.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-phishing-detection-ensemble",
+          section: "News",},{id: "projects-phishing-detection-ensemble",
           title: 'Phishing Detection Ensemble',
           description: "XGBoost, LightGBM, and CatBoost ensemble with SHAP interpretability for phishing website detection.",
           section: "Projects",handler: () => {
