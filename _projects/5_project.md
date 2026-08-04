@@ -1,11 +1,13 @@
 ---
 layout: page
 title: PAEG — Bangla Emotion Recognition
-description: Pragmatic-aware emotion grounding for low-resource Bangla NLP.
-importance: 3
-category: work
+description: Pragmatic-aware emotion grounding for low-resource Bangla NLP — framework design in progress.
+importance: 1
+category: Research
 ---
 
-Investigates pragmatic feature loss in machine-translated Bangla emotion datasets. Proposes a Pragmatic-Aware Emotion Grounding (PAEG) framework combining lexicon retrieval and culturally-grounded augmentation to improve LLM emotion recognition for low-resource Bangla.
+Investigates pragmatic feature loss in machine-translated Bangla emotion datasets. Translation tools preserve semantic content but lose pragmatic markers — culturally grounded expressions, honorifics, and discourse particles — that carry significant emotional signal in Bangla.
 
-Built on three self-constructed datasets totaling approximately 26,000 samples. Targeting **Information Processing and Management** (Elsevier Q1).
+The Pragmatic-Aware Emotion Grounding (PAEG) framework combines lexicon retrieval with culturally grounded augmentation to recover these features and improve LLM-based emotion recognition for low-resource Bangla. Built on three self-constructed datasets totaling approximately 26,000 samples.
+
+**Status:** Framework design in progress
