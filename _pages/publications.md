@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Publications in reversed chronological order.
 nav: true
 nav_order: 3
@@ -17,7 +17,7 @@ nav_order: 3
 <h2 class="year">Conference Proceedings</h2>
 {% bibliography --query @inproceedings %}
 
-<h2 class="year">Works in Progress</h2>
+<h2 class="year">Under Review</h2>
 {% bibliography --query @unpublished %}
 
 </div>
