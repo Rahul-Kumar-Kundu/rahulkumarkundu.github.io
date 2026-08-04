@@ -11,12 +11,16 @@ profile:
   image: rahul_profile.jpg
   image_circular: false
   more_info: >
-    <div style="font-family: inherit; font-size: 0.85rem; line-height: 1.8; text-align: left;">
-      <p>rahulkumarkundu.bd@gmail.com</p>
-      <p>Jashore, Khulna, Bangladesh</p>
-      <p><a href='https://scholar.google.com/citations?user=fmnlb7QAAAAJ' target='_blank'>Google Scholar</a></p>
-      <p><a href='https://orcid.org/0009-0000-4241-4971' target='_blank'>ORCID</a></p>
-    </div>
+  <div style="font-family: inherit; font-size: 0.85rem; line-height: 1.8; text-align: left;">
+    <p>rahulkumarkundu.bd@gmail.com</p>
+    <p>rahulkumarkundu.ece@gmail.com</p>
+    <p>Jashore, Khulna, Bangladesh</p>
+    <p>
+      <a href='https://scholar.google.com/citations?user=fmnlb7QAAAAJ' target='_blank' style="text-decoration: underline;">Google Scholar</a>
+      &nbsp;|&nbsp;
+      <a href='https://orcid.org/0009-0000-4241-4971' target='_blank' style="text-decoration: underline;">ORCID</a>
+    </p>
+  </div>
 selected_papers: false
 social: true
 announcements:
