@@ -401,7 +401,7 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-home-automation-system",
           title: 'Home Automation System',
-          description: "IoT-based home automation using ESP32 with remote Wi-Fi control.",
+          description: "IoT-based home automation using ESP32 with remote Wi-Fi control, developed during ECE-3212 at RUET.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-ruet-assr-official-website",
