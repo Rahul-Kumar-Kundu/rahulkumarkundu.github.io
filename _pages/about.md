@@ -34,7 +34,12 @@ latest_posts:
 I am <strong>Rahul Kumar Kundu</strong>, a researcher in machine learning and trustworthy artificial intelligence. I completed my B.Sc. in Electrical and Computer Engineering at <strong>Rajshahi University of Engineering and Technology (RUET)</strong>, Bangladesh, graduating with a CGPA of 3.79/4.00 and ranking 7th among 60 students. I am currently working as a <strong>Research Assistant</strong> under <a href="https://scholar.google.com/citations?user=VC8FmyEAAAAJ&hl=en" target="_blank">Dr. Amith Khandakar</a> at <strong>Qatar University</strong> (remote).
 <br>
 <br>
-My research focuses on developing reliable, interpretable, and deployable machine learning systems for healthcare and intelligent sensing. I am particularly interested in <strong>medical image analysis</strong>, <strong>multimodal learning</strong>, <strong>explainable AI</strong>, <strong>trustworthy AI</strong>, and <strong>machine learning for cybersecurity</strong>.
+My research focuses on developing reliable, interpretable, and deployable machine learning systems for healthcare and intelligent sensing. I am particularly interested in <strong>medical image analysis</strong>, <strong>multimodal learning</strong>, <strong>explainable AI</strong>, <strong>trustworthy AI</strong>, and <strong>machine learning for cybersecurity</strong>. My work has resulted in a journal publication in <em>Biomedical Signal Processing and Control</em> (Elsevier Q1), two IEEE conference papers, and two manuscripts currently under review at <em>IEEE Open Journal of the Computer Society</em> and <em>Computer Methods and Programs in Biomedicine</em> (Elsevier Q1).
+
+<br>
+<br>
+
+Beyond research, I serve as <strong>Chair of the IEEE RUET Signal Processing Society (SPS) Student Branch Chapter</strong> (2024–2025), where I lead technical events, workshops, and research seminars. I also serve as <strong>Vice President (Information) of the Astronomy and Science Society of RUET (ASSR)</strong> (2024–2025), where I led the development of the <a href="https://assr-ruet.vercel.app/" target="_blank">official society website</a>. Previously, I served as <strong>Webmaster of the IEEE RUET Student Branch</strong> and <strong>Secretary for Website and CMT Management</strong> at the 2025 IEEE PEEIACON conference.
 
 <br>
 <br>
