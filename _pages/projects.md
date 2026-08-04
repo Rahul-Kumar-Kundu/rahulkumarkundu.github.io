@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Ongoing research and engineering projects in medical AI, NLP, cybersecurity, and intelligent sensing.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 4
+display_categories: [Research, Academic]
 horizontal: false
 ---
 
@@ -36,17 +36,11 @@ horizontal: false
   </div>
   {% endif %}
   {% endfor %}
-
 {% else %}
-
 <!-- Display projects without categories -->
-
 {% assign sorted_projects = site.projects | sort: "importance" %}
-
   <!-- Generate cards for each project -->
-
 {% if page.horizontal %}
-
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
