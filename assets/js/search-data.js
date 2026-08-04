@@ -396,7 +396,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-paeg-bangla-emotion-recognition",
           title: 'PAEG — Bangla Emotion Recognition',
-          description: "Pragmatic-aware emotion grounding for low-resource Bangla NLP.",
+          description: "Pragmatic-aware emotion grounding for low-resource Bangla NLP — framework design in progress.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-home-automation-system",
