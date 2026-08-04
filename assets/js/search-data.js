@@ -394,12 +394,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-paeg-bangla-emotion-recognition",
-          title: 'PAEG — Bangla Emotion Recognition',
-          description: "Pragmatic-aware emotion grounding for low-resource Bangla NLP — framework design in progress.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-home-automation-system",
+          section: "News",},{id: "projects-home-automation-system",
           title: 'Home Automation System',
           description: "IoT-based home automation using ESP32 with remote Wi-Fi control, developed during ECE-3212 at RUET.",
           section: "Projects",handler: () => {
@@ -409,6 +404,11 @@ ninja.data = [{
           description: "Official website for the Astronomy and Science Society of RUET built with Next.js, Prisma, and MongoDB.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-paeg-bangla-emotion-recognition",
+          title: 'PAEG — Bangla Emotion Recognition',
+          description: "Pragmatic-aware emotion grounding for low-resource Bangla NLP — framework design in progress.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PAEG/";
             },},{id: "projects-multimodal-cattle-behavior-recognition",
           title: 'Multimodal Cattle Behavior Recognition',
           description: "Wearable and farm-sensing based cattle behavior recognition using time-series sensor data at Qatar University.",
