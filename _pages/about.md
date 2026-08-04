@@ -11,7 +11,7 @@ profile:
   image: rahul_profile.jpg
   image_circular: false
   more_info: >
-    <div style="font-family:inherit;font-size:0.85rem;line-height:1.8;text-align:left;"><p>rahulkumarkundu.bd@gmail.com</p><p>rahulkumarkundu.ece@gmail.com</p><p>Jashore, Khulna, Bangladesh</p><p><a href="https://scholar.google.com/citations?user=fmnlb7QAAAAJ" target="_blank" style="text-decoration:underline;">Google Scholar</a> &nbsp;|&nbsp; <a href="https://orcid.org/0009-0000-4241-4971" target="_blank" style="text-decoration:underline;">ORCID</a></p></div>
+    <div style="font-family:inherit;font-size:0.85rem;line-height:1.8;text-align:left;"><p><a href="mailto:rahulkumarkundu.bd@gmail.com">rahulkumarkundu.bd@gmail.com</a> &nbsp;|&nbsp; <a href="mailto:rahulkumarkundu.ece@gmail.com">rahulkumarkundu.ece@gmail.com</a></p><p>Jashore, Khulna, Bangladesh</p><p><a href="https://scholar.google.com/citations?user=fmnlb7QAAAAJ" target="_blank" style="text-decoration:underline;">Google Scholar</a> &nbsp;|&nbsp; <a href="https://orcid.org/0009-0000-4241-4971" target="_blank" style="text-decoration:underline;">ORCID</a></p></div>
 selected_papers: false
 social: true
 announcements:
@@ -39,7 +39,7 @@ Beyond research, I serve as <strong>Chair of the IEEE RUET Signal Processing Soc
 <br><br>
 
 <strong>I am actively seeking funded PhD positions for Fall 2027 in medical image analysis, multimodal learning, trustworthy AI, and NLP. Feel free to reach out.</strong>
-
+<br>
 <br>
 <br>
 
