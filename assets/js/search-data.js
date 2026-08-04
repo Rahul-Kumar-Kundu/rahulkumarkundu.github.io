@@ -479,13 +479,6 @@ ninja.data = [{
           window.open("https://github.com/Rahul-Kumar-Kundu", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:rahulkumarkundu.ece@gmail.com", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
