@@ -394,12 +394,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-metaseg",
-          title: 'MetaSeg',
-          description: "Skin lesion segmentation with patient metadata fusion via FiLM modulation.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-paeg-bangla-emotion-recognition",
+          section: "News",},{id: "projects-paeg-bangla-emotion-recognition",
           title: 'PAEG — Bangla Emotion Recognition',
           description: "Pragmatic-aware emotion grounding for low-resource Bangla NLP.",
           section: "Projects",handler: () => {
