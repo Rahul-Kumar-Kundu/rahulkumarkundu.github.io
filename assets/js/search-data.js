@@ -414,6 +414,11 @@ ninja.data = [{
           description: "IoT-based home automation using ESP32 with remote Wi-Fi control, developed during ECE-3212 at RUET.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/home_automation/";
+            },},{id: "projects-multimodal-phishing-detection",
+          title: 'Multimodal Phishing Detection',
+          description: "Multimodal phishing detection using visual-semantic inconsistency scoring for robust brand impersonation detection.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/multimodal_phishing/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
