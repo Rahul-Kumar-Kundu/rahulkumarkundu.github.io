@@ -388,6 +388,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/tea_leaf/";
+            },},{id: "news-phishing-website-detection-paper-published-at-iccit-2025",
+          title: 'Phishing Website Detection Paper Published at ICCIT 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/iccit_published/";
             },},{id: "news-ed-net-published-in-biomedical-signal-processing-and-control",
           title: 'ED-Net Published in Biomedical Signal Processing and Control',
           description: "",
