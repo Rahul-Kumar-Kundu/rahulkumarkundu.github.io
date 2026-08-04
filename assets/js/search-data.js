@@ -383,10 +383,12 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-tea-leaf-disease-classification-paper-published-in-ieee-xplore",
+          title: 'Tea Leaf Disease Classification Paper Published in IEEE Xplore',
           description: "",
-          section: "News",},{id: "news-ed-net-published-in-biomedical-signal-processing-and-control",
+          section: "News",handler: () => {
+              window.location.href = "/news/tea_leaf/";
+            },},{id: "news-ed-net-published-in-biomedical-signal-processing-and-control",
           title: 'ED-Net Published in Biomedical Signal Processing and Control',
           description: "",
           section: "News",handler: () => {
