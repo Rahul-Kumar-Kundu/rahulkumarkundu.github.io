@@ -409,6 +409,11 @@ ninja.data = [{
           description: "Official website for the Astronomy and Science Society of RUET built with Next.js, Prisma, and MongoDB.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
+            },},{id: "projects-multimodal-cattle-behavior-recognition",
+          title: 'Multimodal Cattle Behavior Recognition',
+          description: "Wearable and farm-sensing based cattle behavior recognition using time-series sensor data at Qatar University.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Q-cattle/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
