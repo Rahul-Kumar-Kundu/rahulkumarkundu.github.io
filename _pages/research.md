@@ -6,6 +6,8 @@ nav: true
 nav_order: 2
 ---
 
+
+<div style="text-align: justify;">
 My research focuses on developing machine learning systems that remain reliable, interpretable, and useful beyond controlled benchmark settings. I am particularly interested in how models behave under domain shift, demographic imbalance, limited supervision, missing sensor modalities, and other constraints that arise during real-world deployment.
 
 My work lies at the intersection of **machine learning**, **computer vision**, **medical image analysis**, **multimodal learning**, **explainable AI**, and **trustworthy AI**, with additional applications in cybersecurity and intelligent sensing.
@@ -123,4 +125,5 @@ I aim to pursue research that combines methodological rigor with practical deplo
 
 A full list of publications with citations, abstracts, and BibTeX entries is available on the [publications page](/publications/).
 
-**Research Interests:** Machine Learning · Computer Vision · Multimodal Learning · Explainable AI · Trustworthy AI · Medical Image Analysis · Cybersecurity · Signal Processing · NLP for Low-Resource Languages
+**Research Interests:** Machine Learning · Computer Vision · Multimodal Learning · Explainable AI · Trustworthy AI · Medical Image Analysis · Cybersecurity · Signal Processing · NLP for Low-Resource Languages.
+</div>
