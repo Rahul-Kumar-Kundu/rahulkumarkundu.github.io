@@ -34,11 +34,11 @@ My research focuses on developing reliable, interpretable, and deployable machin
 
 <br><br>
 
-Beyond research, I serve as <strong>Chair of the IEEE RUET Signal Processing Society (SPS) Student Branch Chapter</strong> (2024–2025), where I lead technical events, workshops, and research seminars. I also serve as <strong>Vice President (Information) of the Astronomy and Science Society of RUET (ASSR)</strong> (2024–2025), where I led the development of the <a href="https://assr-ruet.vercel.app/" target="_blank">official society website</a>. Previously, I served as <strong>Webmaster of the IEEE RUET Student Branch</strong> and <strong>Secretary for Website and CMT Management</strong> at the 2025 IEEE PEEIACON conference.
+Beyond research, I served as <strong>Chair of the IEEE RUET Signal Processing Society (SPS) Student Branch Chapter</strong> from 2024 to 2025, where I led technical events, workshops, and research seminars. I also served as <strong>Vice President (Information) of the Astronomy and Science Society of RUET (ASSR)</strong> from 2024 to 2025, where I led the development of the <a href="https://assr-ruet.vercel.app/" target="_blank" rel="noopener noreferrer">official society website</a>. Previously, I served as <strong>Webmaster of the IEEE RUET Student Branch</strong> and as <strong>Secretary for Website and CMT Management</strong> at the 2025 IEEE PEEIACON conference.
 
 <br><br>
 
-<strong>I am actively seeking funded PhD positions for Fall 2027 in medical image analysis, multimodal learning, trustworthy AI, and NLP. Feel free to reach out.</strong>
+<strong>I am seeking funded graduate research opportunities for Fall 2027, primarily PhD positions in medical image analysis, multimodal learning, trustworthy AI, and intelligent sensing. I am also open to funded, thesis-based master’s programs that provide a strong pathway toward doctoral research.</strong>
 <br>
 <br>
 <br>
