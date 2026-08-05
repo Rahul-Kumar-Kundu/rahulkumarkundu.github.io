@@ -32,7 +32,7 @@ nav_order: 2
 
 <p>A central goal of this work was to evaluate whether the model could generalize beyond the dataset used for training. ED-Net was therefore assessed on multiple external polyp segmentation datasets without retraining, along with reverse cross-dataset experiments and ablation studies. A dual-mode clinical deployment strategy was proposed — real-time screening without TTA (47.17 FPS) and offline diagnostic analysis with TTA (12.93 FPS) — to support practical endoscopic workflows.</p>
 
-<p>This work was published in <em>Biomedical Signal Processing and Control</em>, vol. 123, Part A, p. 110566, Elsevier, 2026 (Q1, IF: 4.9). See the <a href="/publications/">publications page</a> for full citation and BibTeX.</p>
+<p>This work was published in <em>Biomedical Signal Processing and Control</em>, vol. 123, Part A, p. 110566, Elsevier, 2026 (Q1, IF: 5.7). See the <a href="/publications/">publications page</a> for full citation and BibTeX.</p>
 
 <hr>
 
